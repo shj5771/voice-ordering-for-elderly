@@ -61,7 +61,11 @@
 5. LLM이 최종 응답 생성  
 6. 응답 → TTS로 변환 후 사용자에게 안내  
 
-![System Architecture](docs/images/system_architecture.png)
+## 아키텍쳐
+<img width="686" height="334" alt="image" src="https://github.com/user-attachments/assets/e9d97160-5e6b-4c90-a661-cc1ccf9f6339" />
+
+
+<img width="685" height="336" alt="image" src="https://github.com/user-attachments/assets/87d977e4-0a2b-40cd-b04b-a4a524bb8ba8" />
 
 ---
 
@@ -75,7 +79,12 @@
 | **ONNX + 양자화** | 모델 크기 | 50% 축소 |
 
 ---
+##  시연 영상
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a77670f-7a1f-4a88-9a37-c5d53877f1f9" width="200">
+</p>
 
+---
 ##  팀 구성
 - **신홍재**: STT 모델 파인튜닝, ONNX 최적화  
 - **김원우**: 데이터 크롤링, 메뉴/리뷰 DB 구축  
